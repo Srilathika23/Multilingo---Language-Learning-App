@@ -1,0 +1,7 @@
+{
+  "name": "MULTILINGO – Multilingual Dictionary & Vocabulary Trainer",
+  "description": "An AI-powered multilingual dictionary that allows users to search for words in English, Tamil, or Hindi and get detailed meanings, parts of speech, and explanations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
